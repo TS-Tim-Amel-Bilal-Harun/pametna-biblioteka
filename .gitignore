@@ -1,0 +1,70 @@
+# OS fajlovi
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+env/
+*.sqlite3
+
+# Visual Studio / C#
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+*.log
+target/
+
+# Web / Build fajlovi
+dist/
+build/
+.cache/
+*.map
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+logs/
+debug.log
+error.log
+
+# Temporary
+tmp/
+temp/
+*.tmp
+*.swp
+
+# Environment fajlovi
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+.vs/
