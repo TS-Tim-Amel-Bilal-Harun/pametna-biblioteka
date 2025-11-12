@@ -1,0 +1,14 @@
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.exe
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.deps.json
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.runtimeconfig.json
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.dll
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.pdb
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.AssemblyInfoInputs.cache
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.AssemblyInfo.cs
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.dll
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\refint\PametnaBiblioteka.dll
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.pdb
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.genruntimeconfig.cache
+C:\Users\ameld\OneDrive\Desktop\Stuff\Fakultet\2 godina\TS\PametnaBiblioteka\obj\Debug\net8.0\ref\PametnaBiblioteka.dll
