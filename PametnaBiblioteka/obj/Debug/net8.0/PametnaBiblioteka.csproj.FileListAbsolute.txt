@@ -1,0 +1,14 @@
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.AssemblyInfoInputs.cache
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.AssemblyInfo.cs
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.exe
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.deps.json
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.runtimeconfig.json
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.dll
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\bin\Debug\net8.0\PametnaBiblioteka.pdb
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.dll
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\refint\PametnaBiblioteka.dll
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.pdb
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\PametnaBiblioteka.genruntimeconfig.cache
+C:\Users\berin\source\repos\PametnaBiblioteka\PametnaBiblioteka\obj\Debug\net8.0\ref\PametnaBiblioteka.dll
